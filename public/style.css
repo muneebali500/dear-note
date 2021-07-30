@@ -33,6 +33,7 @@ header h2 i.fas {
 
 form {
   width: 45rem;
+  max-width: 90%;
   margin: 0 auto;
   margin-top: 2rem;
   position: relative;
