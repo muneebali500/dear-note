@@ -14,7 +14,7 @@ This is a Dear Note project created to generate short notes/reminders and store 
 ### Languages, Frameworks, Libraries & Programs
 
 - [JSX](https://reactjs.org/docs/introducing-jsx.html) - build up layout and content of the application.
-- [css](https://developer.mozilla.org/en-US/docs/Web/CSS) - for adding custom styling.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - for adding custom styling.
 - [React.js](https://reactjs.org/) - to add functionalities throughout the application.
   - Hooks used:
     - useState
